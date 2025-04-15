@@ -1,12 +1,13 @@
-Crimson
-Orange
+Indigo
 Blue
 Cyan
 Yellow
+Crimson
 Charcoal
 Khaki
 Coral
 Silver
+Onion purple
 Fuchsia
 Purple
 Brown
